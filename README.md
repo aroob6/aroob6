@@ -2,8 +2,8 @@
 
 <h3 align="center">💻 IOS Developer</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/aroxb6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/arob6@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp 
+  <a href="mailto:aroxb6@gmail.com"><img src="https://img.shields.io/badge/aroxb6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp 
+  <a href="mailto:arob6@naver.com"><img src="https://img.shields.io/badge/arob6@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp 
   <br>
   <a href="https://aroob6.tistory.com/"><img src="https://img.shields.io/badge/Blog-B5B2FF?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://aroob6.tistory.com/"/></a>
 </p>
