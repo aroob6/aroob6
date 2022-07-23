@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=bora%20lee&fontSize=90)
-### 👩🏻‍💻 IOS Developer
+
+<h3 align="center">💻 IOS Developer</h3>
 ![Gmail](https://img.shields.io/badge/aroxb6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white) ![Naver](https://img.shields.io/badge/arob6@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white) 
 
 ### 🛠 Tech Stacks
