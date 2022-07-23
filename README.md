@@ -4,6 +4,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/aroxb6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/arob6@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://aroob6.tistory.com/"/></a>
 </p>
 <br>
 <h3 align="center">🛠 Tech Stacks</h3>
