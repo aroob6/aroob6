@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=bora%20lee&fontSize=90)
 ### 👩🏻‍💻 IOS Developer
-![Gmail](https://img.shields.io/badge/aroxb6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white) ![Naver](https://img.shields.io/badge/aroxb6@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white) 
+![Gmail](https://img.shields.io/badge/aroxb6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white) ![Naver](https://img.shields.io/badge/arob6@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white) 
 
 ### 🛠 Tech Stacks
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
