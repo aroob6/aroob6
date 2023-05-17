@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=bora%20lee&fontSize=90)
-
 <h3 align="center">💻 IOS Developer</h3>
 <p align="center">
   <a href="mailto:aroxb6@gmail.com"><img src="https://img.shields.io/badge/aroxb6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp 
-  <a href="mailto:arob6@naver.com"><img src="https://img.shields.io/badge/arob6@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp 
   <br>
 </p>
 <br>
